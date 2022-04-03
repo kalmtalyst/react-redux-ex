@@ -1,4 +1,4 @@
-# :bulb: Redux 연습 프로젝트
+# :bulb: React Redux 연습 프로젝트
 
 ## :shopping_cart: 쇼핑몰 사이트 예제
 
