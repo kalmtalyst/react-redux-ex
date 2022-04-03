@@ -1,0 +1,31 @@
+.ProductItem {
+  margin: 0 20px 20px;
+  /* flex 이거 뭐지???? 창이 줄어도 고장값을 갖고 있도록? */
+  flex: 0 0 220px;
+}
+
+.item-img {
+  /* 틀안에서 이미지 넓이를 백프로 처리! */
+  width: 100%;
+}
+.item-name {
+  width: 100%;
+  margin: 5px 0;
+  color: #606060;
+  font-weight: 500;
+}
+.item-price {
+  width: 100%;
+  margin-bottom: 15px;
+  font-size: 15px;
+  color: rgb(221, 16, 16);
+}
+.add-cart-btn {
+  background-color: rgb(122, 17, 17);
+  cursor: pointer;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  font-weight: 600;
+}
